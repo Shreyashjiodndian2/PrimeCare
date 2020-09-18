@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-primecare-dev-193740-authRole",
+      "UnauthRoleArn": "arn:aws:iam::926258456012:role/amplify-primecare-dev-193740-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::926258456012:role/amplify-primecare-dev-193740-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-primecare-dev-193740-deployment",
+      "UnauthRoleName": "amplify-primecare-dev-193740-unauthRole",
+      "StackName": "amplify-primecare-dev-193740",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:926258456012:stack/amplify-primecare-dev-193740/544295d0-f9b8-11ea-ac6c-02d8953651cc",
+      "AmplifyAppId": "d3f0r7ompptr1c"
+    },
+    "categories": {
+      "auth": {
+        "primecare8df19460": {}
+      }
+    }
+  }
+}
