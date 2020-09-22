@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815557658005",
+    "firebase_url": "https://primecare-67d74.firebaseio.com",
+    "project_id": "primecare-67d74",
+    "storage_bucket": "primecare-67d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815557658005:android:cf3659ced2f5d7e63ce29c",
+        "android_client_info": {
+          "package_name": "com.hackathon.primecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815557658005-723s893hr17kaftgppb8nfj93s86j0sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackathon.primecare",
+            "certificate_hash": "47ce66f87b2e077fb9eff83b956252bdfbc50500"
+          }
+        },
+        {
+          "client_id": "815557658005-l9bk08aceme8f0r6b9kedbmhjbrqul9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3AG9cuz-KjiB8LZWmMSdLl2pFALvRKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815557658005-l9bk08aceme8f0r6b9kedbmhjbrqul9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
