@@ -1,9 +1,9 @@
 # this is an auto generated file. This will be overwritten
-mutation CreateTodo(
-  $input: CreateTodoInput!
-  $condition: ModelTodoConditionInput
+mutation CreatePet(
+  $input: CreatePetInput!
+  $condition: ModelPetConditionInput
 ) {
-  createTodo(input: $input, condition: $condition) {
+  createPet(input: $input, condition: $condition) {
     id
     name
     description
@@ -11,11 +11,11 @@ mutation CreateTodo(
     updatedAt
   }
 }
-mutation UpdateTodo(
-  $input: UpdateTodoInput!
-  $condition: ModelTodoConditionInput
+mutation UpdatePet(
+  $input: UpdatePetInput!
+  $condition: ModelPetConditionInput
 ) {
-  updateTodo(input: $input, condition: $condition) {
+  updatePet(input: $input, condition: $condition) {
     id
     name
     description
@@ -23,11 +23,11 @@ mutation UpdateTodo(
     updatedAt
   }
 }
-mutation DeleteTodo(
-  $input: DeleteTodoInput!
-  $condition: ModelTodoConditionInput
+mutation DeletePet(
+  $input: DeletePetInput!
+  $condition: ModelPetConditionInput
 ) {
-  deleteTodo(input: $input, condition: $condition) {
+  deletePet(input: $input, condition: $condition) {
     id
     name
     description

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Prime Care</string>
+    <string name="videoCall">Video Call</string>
+    <string name="diseaseDetection">Disease Detection</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="chat">Chat with Doctor</string>
+    <string name="alreadyUploadedImage">Already uploaded Images</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
 </resources>

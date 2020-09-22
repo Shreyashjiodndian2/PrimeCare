@@ -1,6 +1,6 @@
 # this is an auto generated file. This will be overwritten
-subscription OnCreateTodo {
-  onCreateTodo {
+subscription OnCreatePet {
+  onCreatePet {
     id
     name
     description
@@ -8,8 +8,8 @@ subscription OnCreateTodo {
     updatedAt
   }
 }
-subscription OnUpdateTodo {
-  onUpdateTodo {
+subscription OnUpdatePet {
+  onUpdatePet {
     id
     name
     description
@@ -17,8 +17,8 @@ subscription OnUpdateTodo {
     updatedAt
   }
 }
-subscription OnDeleteTodo {
-  onDeleteTodo {
+subscription OnDeletePet {
+  onDeletePet {
     id
     name
     description
